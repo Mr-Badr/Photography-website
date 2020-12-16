@@ -6,19 +6,19 @@
 
 @font-face {
   font-family: "Ruhl";
-  src: url("/fonts/FrankRuhlLibre-Regular.ttf");
+  src: url("./fonts/FrankRuhlLibre-Regular.ttf");
 }
 @font-face {
   font-family: "Ruhl Medium";
-  src: url("/fonts/FrankRuhlLibre-Medium.ttf");
+  src: url("./fonts/FrankRuhlLibre-Medium.ttf");
 }
 @font-face {
   font-family: "Vibes";
-  src: url("/fonts/GreatVibes-Regular.ttf");
+  src: url("./fonts/GreatVibes-Regular.ttf");
 }
 
 html {
-  font-size: 62.5%;
+  font-size: 50%;
   --header1: calc(2rem + 1vw);
   --header2: calc(3.5rem + 1vw);
   --header3: calc(3rem + 1vw);
